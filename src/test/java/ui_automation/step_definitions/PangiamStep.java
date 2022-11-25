@@ -11,6 +11,6 @@ public class PangiamStep {
         WebDriver driver=Driver.getInstance().getDriver();
         driver.get("https://pangiam.com/");
         driver.findElement(By.xpath("//*[@id='hs-eu-confirmation-button']")).click();
-        Thread.sleep(70000);
+        Thread.sleep(2000);
     }
 }
