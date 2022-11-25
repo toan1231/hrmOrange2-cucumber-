@@ -1,0 +1,63 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-25T22:30:18.877Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2445118900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "As a user I can open pangiam url",
+        "description": "",
+        "id": "verify-hover-over-functionality;as-a-user-i-can-open-pangiam-url",
+        "after": [
+          {
+            "result": {
+              "duration": 273602400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 73716118900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I open Pangiam url",
+            "match": {
+              "location": "PangiamStep.iOpenPangiamUrl()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@toan"
+          }
+        ]
+      }
+    ],
+    "name": "Verify hover-over functionality",
+    "description": "",
+    "id": "verify-hover-over-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/uiFeatures/pamgiam.feature",
+    "tags": []
+  }
+]
