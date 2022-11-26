@@ -16,3 +16,11 @@
 2022-11-25 17:29:55,440 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
 2022-11-25 17:30:19,467 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
 2022-11-25 17:30:19,506 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-25 19:57:16,260 [pool-1-thread-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-25 19:57:16,277 [pool-1-thread-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-25 20:00:01,682 [pool-1-thread-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-25 20:00:01,699 [pool-1-thread-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-25 20:01:34,436 [pool-1-thread-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-25 20:01:34,452 [pool-1-thread-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-25 20:05:08,462 [pool-1-thread-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-25 20:05:08,478 [pool-1-thread-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\chaut\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
